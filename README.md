@@ -1,4 +1,4 @@
-# 🛒 Product Management App (Frontend)
+# 🛒 Product Management App 
 
 A simple and user-friendly Product Management App built using front-end technologies. 
 This application allows users to add, edit, delete, and view product details with a clean and responsive UI.
