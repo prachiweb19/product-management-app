@@ -49,6 +49,6 @@ focusing on UI design, user interaction, and basic product data management.
 ## How to Use :
 1. Clone or Download this repository.
 
-   check it out here :
+   check it out here : https://prachiweb19.github.io/product-management-app
 
    if you like it ,please give it a star!
